@@ -1,0 +1,11 @@
+commit 5aab79e72c36e6d31487c3af652667cece9b8076
+Author: CCDM27 <CCDM27@CCDM27.local>
+Date:   Thu Sep 7 10:41:06 2023 -0700
+
+    Encabezado y titulo
+
+commit 77c9ea6e0b76d975ef44c77e3e499fee5d2fdd38
+Author: CCDM27 <CCDM27@CCDM27.local>
+Date:   Thu Sep 7 10:32:57 2023 -0700
+
+    Archivos iniciales de la clas
