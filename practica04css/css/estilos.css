@@ -1,0 +1,23 @@
+body{
+    
+}
+
+header nav li{
+    display: inline-block;
+    font-weight: bold;
+
+}
+
+#arhead{
+    display: inline-block;
+}
+
+#primhead{
+text-align: right;
+}
+#seghead{
+text-align: center;
+}
+#terhead{
+text-align: left;
+}
